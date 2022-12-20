@@ -1,8 +1,17 @@
 body {
   margin: 0%;
-  background-image: url(https://media.istockphoto.com/id/1193750118/photo/beautiful-asian-woman-carrying-colorful-bags-shopping-online-with-mobile-phone.jpg?s=612x612&w=0&k=20&c=j1SpSX7c3qzBrUT5f7HRoOfxQnPxZY_c6yb3AvXA5f8=);
+  background-image: url(images/logo.jpeg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 50%;
+}
+.top{
+  margin-top: 0%;
+  background-color: grey;
+  border-color: aliceblue;
+  font-weight: 100;
+  margin-bottom: 0%;
+  text-align: center;
+
 }
 
 .nav{
@@ -13,7 +22,7 @@ body {
   padding: auto;
   display: flex;
   justify-content:space-evenly;
-  margin-top: auto;
+  
   
 }
 .nav button{
@@ -21,7 +30,7 @@ margin: auto;
   
 }
 #lan{
-  width: 60px;
+  
   margin-right: 10px;
 }
 #logo{
